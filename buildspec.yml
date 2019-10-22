@@ -9,3 +9,7 @@ phases:
   pre_build:
     commands:
       - npm test
+artifacts:
+  type: zip
+  files:
+      - test.zip
