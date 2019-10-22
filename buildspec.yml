@@ -11,5 +11,3 @@ phases:
       - npm test
 artifacts:
   type: zip
-  files:
-      - target/test.zip
